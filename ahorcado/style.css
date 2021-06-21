@@ -1,0 +1,6 @@
+.letra {
+  border-bottom: solid 1px;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
